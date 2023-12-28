@@ -1,4 +1,4 @@
-# Pseudorandomuser General
+# PseudorandomUser General
 
 ## How do I install these formulae?
 
